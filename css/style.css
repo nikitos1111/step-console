@@ -514,8 +514,11 @@ a {
 	margin: 300px 0 0 0;
 }
 
-.footer {
+.footer-final {
+	display: flex;
 	margin: 450px 0 0 0;
+	padding: 58px 0 0 0;
+	background: #373a3c;
 }
 
 @media (max-width: 850px) {
