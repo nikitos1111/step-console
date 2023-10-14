@@ -470,9 +470,6 @@ a {
 	padding: 9px 20px;
 }
 
-.footer-duty {
-}
-
 .Trailer {
 	background: repeating-radial-gradient(
 		100% 100% at 50% 0%,
@@ -509,6 +506,16 @@ a {
 	height: 450px;
 	border-radius: 10px;
 	margin: 0 auto;
+}
+
+.qwe123 {
+	color: black;
+	text-align: center;
+	margin: 300px 0 0 0;
+}
+
+.footer {
+	margin: 450px 0 0 0;
 }
 
 @media (max-width: 850px) {
